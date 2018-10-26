@@ -1,5 +1,5 @@
-name: EPCooldown
+name: HiveEPTimer
 main: AppleDevelops\Loader
-version: 1.0.0
-api: [2.0.0, 3.0.0-ALPHA5]
-author: AppleDevelops
+version: 1.0
+api: [3.0.0, 4.0.0]
+author: EmeraldMC
